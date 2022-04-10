@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Kirri7
-- 👀 I’m interested in minecraft/python projects
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @Kirri_7
+- 🔧 a modpack developer
 
 <!---
 Kirri7/Kirri7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
